@@ -1,2 +1,2 @@
-# les1
-First Python repository 
+"# lesson1" 
+"# lesson1" 
